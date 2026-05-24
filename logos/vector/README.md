@@ -11,3 +11,8 @@ All files must be saved in lower-case, hyphenated formats:
 * [cite_start]`nexuscore-logo-dark.svg` (Optimized for dark backgrounds) [cite: 18]
 * `nexuscore-logo-light.svg` (Optimized for light documentation pages)
 * [cite_start]`nexuscore-symbol-isolated.svg` (The geometric emblem without typography) 
+
+## 🚀 Frontend Implementation (CDN Access)
+Developers should pull assets dynamically from this repository using the raw GitHub user content delivery path:
+```html
+<img src="[https://raw.githubusercontent.com/nexuscore-sliate/des-brand-assets/main/logos/vector/nexuscore-logo-dark.svg](https://raw.githubusercontent.com/nexuscore-sliate/des-brand-assets/main/logos/vector/nexuscore-logo-dark.svg)" alt="NexusCore Logo" />
