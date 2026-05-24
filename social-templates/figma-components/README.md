@@ -1,17 +1,17 @@
-# 📱 Social Media Templates & Core Figma Manifests
+# 📱 Social Media Templates & Live Figma Components
 
-This folder acts as the index directory for building event fliers, track announcements, and community updates.
+[cite_start]This directory acts as the central link matrix and dimension tracker for generating promotional flyers, workshop announcements, and event write-ups.
 
-## 🔗 Live Workspace Cloud Access
-* 🎯 **Master Figma Design Workspace:** `[Insert Link to Community Figma Team Design File Here]`
+## 🔗 Live Workspace Access
+* [cite_start]**Master Figma Design Environment:** `[Insert Your Live Community Figma Link Here]` 
 
-## 📊 Design Asset Post Guidelines
-When exporting custom promotional posters or track announcements from Figma, enforce these standard dimensions:
+## 📊 Platform Dimension Matrix
+[cite_start]When exporting finalized layout updates for community channels, ensure your Figma canvas configurations match these target outputs exactly[cite: 16, 17]:
+* **Instagram / Facebook Feed Posts:** `1200 x 1200 pixels` (1:1 Square Aspect Ratio)
+* **LinkedIn Feed Announcements:** `1200 x 628 pixels` (Horizontal Feed Standard)
+* [cite_start]**Presentation Slide Layouts:** `1920 x 1080 pixels` (16:9 Widescreen Framework) [cite: 17]
 
-* **LinkedIn Feed Image:** `1200 x 1200 pixels` (1:1 Square Ratio)
-* **WhatsApp / Discord Announcement:** `800 x 800 pixels`
-
-## 🏷️ Asset Staging Procedure
-Before an asset is published on community channels:
-1. Ensure the color profiles match the hex values specified in `/branding-guidelines/identity-manual.md`.
-2. Save an optimized copy of the design here using standard lowercase-hyphenated formats (`e.g., event-git-bootcamp-2026.png`).
+## 🛠️ Staging Workflow
+1. [cite_start]Compose your graphics inside the cloud Figma system using the approved `#14213D` and `#2563EB` color spaces[cite: 9, 63].
+2. [cite_start]Compress your final `.png` file via tools like TinyPNG to save performance bandwidth.
+3. [cite_start]Add a copy of the promotional asset to this folder for historical logging using clear convention tags (e.g., `event-cybersecurity-workshop-2026.png`).
